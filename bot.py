@@ -2,7 +2,6 @@
 
 import discord
 import requests
-import json
 from datetime import datetime, timezone
 import pytz
 
