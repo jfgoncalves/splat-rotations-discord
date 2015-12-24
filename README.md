@@ -7,7 +7,7 @@
 - [Discord.py](https://github.com/Rapptz/discord.py)
 - Discord credentials (login&password)
 
-# Make it works
+## Make it works
 * Change the shebang line (first line with #) with the path to your Python interpreter
 * Make executable: chmod+x my/path/to/bot.py
 * type <code>nohup /path/to/bot.py &</code> to run it in the background
